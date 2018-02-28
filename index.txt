@@ -1,5 +1,4 @@
 public static void main(String args[]){
 	int x = 5, y = 5;
-	printf("addition of int x and y will be :");
 	float p = 0.5, q = 0.7;
 }
