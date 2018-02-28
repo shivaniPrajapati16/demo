@@ -2,6 +2,7 @@ public static void main(String args[]){
 	printf("hi");
 	printf("how are you ?");
 	int x = 5, y = 5;
-	printf("addition of x and y will be :");
-	
+	printf("addition of int x and y will be :");
+	float p = 0.5, q = 0.7;
+	printf("addition of float x and y will be :");
 }
