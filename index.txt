@@ -1,6 +1,0 @@
-public static void main(String args[]){
-	
-	printf("how are you ?");
-	int x = 5, y = 5;
-	printf("addition of x and y will be :");
-}
