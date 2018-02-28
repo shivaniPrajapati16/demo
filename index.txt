@@ -2,11 +2,5 @@ public static void main(String args[]){
 	printf("hi");
 	printf("how are you ?");
 	int x = 5, y = 5;
-<<<<<<< HEAD
 	printf("addition of int x and y will be :");
-=======
-	printf("addition of x and y will be :");
-	printf("multiplication of x and y will be :");
->>>>>>> 5857067f3722eea6811ea2f2ef49a3784f65c3fa
-	
 }
